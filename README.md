@@ -9,6 +9,7 @@ git config --global alias.cp 'cherry-pick'
 git config --global alias.b 'branch'
 git config --global alias.rsh 'reset --soft HEAD^'
 git config --global alias.rhh 'reset --hard HEAD^'
+git config --global alias.rom 'rebase origin main'
 git config --global alias.coma 'commit --amend'
 git config --global alias.comane 'commit --amend --no-edit'
 ```
